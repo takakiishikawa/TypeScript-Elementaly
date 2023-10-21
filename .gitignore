@@ -2,7 +2,7 @@
 /node_modules
 
 #distを追加
-/dist
+/.dist
 
 # 特定のファイルを無視する例
 /secret.txt
