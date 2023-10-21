@@ -1,6 +1,9 @@
 # 特定のディレクトリを無視する例
 /node_modules
 
+#distを追加
+/dist
+
 # 特定のファイルを無視する例
 /secret.txt
 
