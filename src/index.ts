@@ -1,3 +1,4 @@
-const message: string = "Hello Type Script";
-
-console.log(message);
+const obj = {
+  note: "ila",
+  drink: "coffee",
+};
